@@ -1,0 +1,10 @@
+streamlit>=1.38,<2
+numpy>=1.26,<3
+pandas>=2.0,<3
+scipy>=1.11,<2
+Pillow>=10,<12
+matplotlib>=3.8,<4
+scikit-learn>=1.4,<2
+reportlab>=4,<5
+torch>=2.2,<3
+torchvision>=0.17,<1
